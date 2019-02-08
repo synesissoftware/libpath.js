@@ -1,2 +1,2 @@
 # libpath.js
-lib path library, for JavaScript
+libpath library for JavaScript
